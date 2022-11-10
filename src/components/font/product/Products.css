@@ -1,0 +1,33 @@
+.img-container {
+  margin-left: 20px;
+  border: 5px solid rgb(223, 220, 210);
+  height: 350px;
+  margin-top: 20px;
+}
+.products {
+  margin: 15px 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  justify-content: center;
+}
+h3 {
+  margin-left: 50px;
+  margin-top: 30px;
+}
+h4 {
+  margin-left: 50px;
+  margin-top: 5px;
+}
+button {
+  width: 40px;
+  height: 25px;
+  margin: 2px 5px;
+  border-radius: 8px;
+}
+.btn-container {
+  margin: 10px 50px;
+
+
+}
